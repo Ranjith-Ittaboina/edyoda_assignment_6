@@ -1,0 +1,40 @@
+
+{"employee_info" : {
+                    "employee_1" : {
+                                    "name" : "ranjith", 
+                                    "DOB" : "01-01-1991", 
+                                    "height" : "5.4",
+                                    "city" : "hyderabad", 
+                                    "state" : "telangana"
+                                    }, 
+                    "employee_2" : {
+                                    "name" : "nihar", 
+                                    "DOB" : "02-02-1992", 
+                                    "height" : "5.5",
+                                    "city" : "chennai", 
+                                    "state" : "tamilnadu"
+                                    }, 
+                    "employee_3" : {
+                                    "name" : "mahi", 
+                                    "DOB" : "03-03-1993", 
+                                    "height" : "5.7",
+                                    "city" : "banglore", 
+                                    "state" : "karnataka"
+                                    }, 
+                    "employee_4" : {
+                                    "name" : "sonu", 
+                                    "DOB" : "04-04-1994", 
+                                    "height" : "5.8",
+                                    "city" : "mumbai", 
+                                    "state" : "maharastra"
+                                    }, 
+                    "employee_5" : {
+                                    "name" : "sai", 
+                                    "DOB" : "05-05-1995", 
+                                    "height" : "5.9",
+                                    "city" : "patna", 
+                                    "state" : "bihar"
+                                    }
+                    }
+}
+
